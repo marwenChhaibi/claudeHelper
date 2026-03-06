@@ -1,0 +1,23 @@
+# WoW addon — Claude Helper
+# ─────────────────────────────────────────────────────────────
+
+# Saved variables / local DB (generated at runtime by WoW)
+*.bak
+ClaudeHelper/SavedVariables/
+
+# Windows artifacts
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Claude Code settings (local only)
+.claude/
+
+# OS
+.DS_Store

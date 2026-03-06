@@ -1,0 +1,11 @@
+## Interface: 120001
+## Title: Claude Helper - Elemental Shaman
+## Notes: Rotation, action bar setup, cooldown tracker, proc alerts
+## Author: You
+## Version: 0.2
+## DefaultState: enabled
+## SavedVariables: ClaudeHelperDB
+
+ClaudeHelper.lua
+Config.lua
+CharacterInspector.lua
